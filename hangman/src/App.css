@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.letter-used {
+font-weight: bold;
+}
+
+.letter-unsed {
+  color: blue;
+  }
+
+.low-score {
+  color: red
+}
+
+.medium-score {
+  color: yellow
+}
+
+.high-score {
+  color: green
+}
